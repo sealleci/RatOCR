@@ -4,4 +4,4 @@ A simple OCR program for recognizing barcode.
 
 ## Tech Supports
 
-- OpenCV3
+- OpenCV2
